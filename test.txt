@@ -1,1 +1,1 @@
-"Test is postponed by 42 days " 
+"Test is postponed by 30 days " 
